@@ -31,7 +31,7 @@ Flexible programmer, passionate about networking and distributed systems with an
 
 <br>
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">Tech Stack & Tools</h2>
 
 <h3 align="center">Languages</h3>
 
@@ -69,8 +69,6 @@ Flexible programmer, passionate about networking and distributed systems with an
   <img src="https://skillicons.dev/icons?i=vscode,vim,git,linux" alt="tools" />
   <img src="https://avatars.githubusercontent.com/u/79345384?s=200&v=4" alt="zed" height="48" width="48" />
 </p>
-
----
 
 <h2 align="center">Featured Projects</h2>
 
