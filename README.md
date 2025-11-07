@@ -1,13 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=40C4FF&center=true&vCenter=true&width=435&lines=Max+Day" alt="Max Day" />
-</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=40C4FF&center=true&vCenter=true&width=600&lines=Fullstack+%7C+Development+%7C+Networking" alt="Tags" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=100&section=header&text=&fontSize=90&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=40C4FF&height=250&section=header&text=Max%20Day&fontSize=80&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=Fullstack%20%7C%20Development%20%7C%20Networking&descSize=25&descAlign=50&descAlignY=55&descColor=FFFFFF" />
 </p>
 
 ## Welcome
