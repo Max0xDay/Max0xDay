@@ -31,10 +31,43 @@ Flexible programmer, passionate about networking and distributed systems with an
 
 <br>
 
-<h2 align="center">Tech Stack & Tools</h2>
+<h2 align="center">Tech Stack</h2>
+
+<h3 align="center">Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,html,css,react,nodejs,express,docker,kubernetes,linux,git,github,vscode,vim,bash,postgres,mongodb,redis,nginx,aws" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,javascript,typescript,html,css" alt="languages" />
+</p>
+
+<h3 align="center">Frontend Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,typescript,javascript" alt="frontend" />
+</p>
+
+<h3 align="center">Backend Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=deno,nodejs,bun,express,dotnet,c,cpp" alt="backend" />
+</p>
+
+<h3 align="center">Database Technologies</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite" alt="databases" />
+</p>
+
+<h3 align="center">DevOps & Cloud</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,linux,nginx,bash,git" alt="devops" />
+</p>
+
+<h3 align="center">Development Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,vim,git,linux" alt="tools" />
+  <img src="https://avatars.githubusercontent.com/u/79345384?s=200&v=4" alt="zed" height="48" width="48" />
 </p>
 
 ---
@@ -95,8 +128,13 @@ Flexible programmer, passionate about networking and distributed systems with an
   </a>
 </p>
 
----
+<br>
 
+<p align="center">
+  <img src="./github-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+<br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=40C4FF&height=100&section=footer" />
