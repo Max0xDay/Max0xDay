@@ -41,11 +41,62 @@ Flexible programmer, passionate about networking and distributed systems with an
 
 <h2 align="center">Featured Projects</h2>
 
+<br>
+
+<h3 align="center">Personal Projects</h3>
+
 <p align="center">
-Coming soon...
+  <a href="https://github.com/Max0xDay/PNs">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Max0xDay&repo=PNs&border_color=40C4FF&title_color=40C4FF&text_color=B3E5FC&icon_color=40C4FF&bg_color=0D1117&border_radius=15" alt="PNs" />
+  </a>
+  <img width="30px" />
+  <a href="https://github.com/Max0xDay/fydf-server">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Max0xDay&repo=fydf-server&border_color=40C4FF&title_color=40C4FF&text_color=B3E5FC&icon_color=40C4FF&bg_color=0D1117&border_radius=15" alt="fydf-server" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Max0xDay/netten">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Max0xDay&repo=netten&border_color=40C4FF&title_color=40C4FF&text_color=B3E5FC&icon_color=40C4FF&bg_color=0D1117&border_radius=15" alt="netten" />
+  </a>
+  <img width="30px" />
+  <a href="https://github.com/Max0xDay/alcity">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Max0xDay&repo=alcity&border_color=40C4FF&title_color=40C4FF&text_color=B3E5FC&icon_color=40C4FF&bg_color=0D1117&border_radius=15" alt="alcity" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Max0xDay/squigello-browser">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Max0xDay&repo=squigello-browser&border_color=40C4FF&title_color=40C4FF&text_color=B3E5FC&icon_color=40C4FF&bg_color=0D1117&border_radius=15" alt="squigello-browser" />
+  </a>
+  <img width="30px" />
+  <a href="https://github.com/Max0xDay/drunk-bpe">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Max0xDay&repo=drunk-bpe&border_color=40C4FF&title_color=40C4FF&text_color=B3E5FC&icon_color=40C4FF&bg_color=0D1117&border_radius=15" alt="drunk-bpe" />
+  </a>
+</p>
+
+<br>
+
+<h3 align="center">Community Projects</h3>
+
+<p align="center">
+  <a href="https://github.com/samsaraserver/Samsara-app">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=samsaraserver&repo=Samsara-app&border_color=40C4FF&title_color=40C4FF&text_color=B3E5FC&icon_color=40C4FF&bg_color=0D1117&border_radius=15" alt="Samsara-app" />
+  </a>
+  <img width="30px" />
+  <a href="https://github.com/Briconomy/Briconomy-app">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Briconomy&repo=Briconomy-app&border_color=40C4FF&title_color=40C4FF&text_color=B3E5FC&icon_color=40C4FF&bg_color=0D1117&border_radius=15" alt="Briconomy-app" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Delta-Pay/Delta-Pay-app">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Delta-Pay&repo=Delta-Pay-app&border_color=40C4FF&title_color=40C4FF&text_color=B3E5FC&icon_color=40C4FF&bg_color=0D1117&border_radius=15" alt="Delta-Pay-app" />
+  </a>
 </p>
 
 ---
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=40C4FF&height=100&section=footer" />
